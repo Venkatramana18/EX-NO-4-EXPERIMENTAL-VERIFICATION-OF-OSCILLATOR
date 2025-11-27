@@ -2,7 +2,7 @@
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 	DATE:
  ##AIM:
-To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
+To construct a RC phase  shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
  ##THEORY:
